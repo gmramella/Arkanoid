@@ -12,12 +12,10 @@ Para funcionar:
 
 * adicionar musicas na pasta Musics
 
-* adicionar sprites (3 arquivos .png disponíveis aqui) na pasta Files
-	
+* adicionar sprites (3 arquivos .png e Asteroids.zip disponíveis aqui) na pasta Files
+
 * trocar ./Files e ./Musics por ./bin/Files e ./bin/Musics
 
-Para mudar música:
-
-* trocar nome da música na linha 60 do main.cpp
+* mudar a música na linha const char* path = ... no main.cpp
 
 [Músicas para baixar](http://inf.ufrgs.br/~gmramella/unisinos/ter_fis/Musics/)
